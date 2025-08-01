@@ -31,12 +31,7 @@ public class ExitDoor : MonoBehaviour
         // You can add animation or change door state here
         if (door != null)
         {
-            // For example, enable door open animation or disable collider
-            // Animator anim = door.GetComponent<Animator>();
-            // if (anim != null) anim.SetTrigger("Open");
-
-            // Or simply disable collider to let player pass
-            Collider col = door.GetComponent<Collider>();
+            
             if (col != null) col.enabled = false;
 
             // Or move the door upwards as a simple open effect
