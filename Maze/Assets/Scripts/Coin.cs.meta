@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 88c772bf7188a0f49a4980227d9de569
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_InteractionManager: {instanceID: 0}
+  - m_CustomReticle: {fileID: 3177232254315139758, guid: a3fde713df4d99042a0403c4be9eea32, type: 3}
+  - coinSound: {fileID: 8300000, guid: 77c216d90a9e1ab4ba497c36380ee9ce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
