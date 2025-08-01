@@ -28,7 +28,7 @@ public class ExitDoor : MonoBehaviour
         if (lockGlow != null)
             lockGlow.SetActive(false);
 
-        // You can add animation or change door state here
+        
         if (door != null)
         {
             
